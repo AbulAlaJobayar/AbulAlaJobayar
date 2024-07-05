@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Abul Ala Jobayar</h1>
 <h3 align="center">A passionate Full-Stack developer from bangladesh</h3>
 
+<p align="center">Highly skilled Full Stack Developer with 3+ years of hands-on experience in web development. Proficient in HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, Express, Mongoose, Prisma, MongoDB, PostgreSQL, Firebase, React, Redux, Next.js, graphQL, vitest git, and Github</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/dcz6D5B/git.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abulalajobayar&label=Profile%20views&color=0e75b6&style=flat" alt="abulalajobayar" /> </p>
