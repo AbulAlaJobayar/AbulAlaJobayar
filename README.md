@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rose-theta-63.vercel.app/](https://portfolio-rose-theta-63.vercel.app/).
 
-- 📫 How to reach me **abulalajobayar@gmail.com**
+- 📫 How to reach me **abulalajobayar@gmail.com** ** +8801928210545**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
