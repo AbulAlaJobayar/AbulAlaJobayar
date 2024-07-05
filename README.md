@@ -1,7 +1,7 @@
-![Header](https://i.ibb.co/zZd55Jz/github-header-image-1.png)
+![Header](https://i.ibb.co/MN4fqBj/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Abul Ala Jobayar</h1>
-<h3 align="center">A passionate Full_Stack developer from bangladesh</h3>
+<h3 align="center">A passionate Full-Stack developer from bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/dcz6D5B/git.gif"/>
 
